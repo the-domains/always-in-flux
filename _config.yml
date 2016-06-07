@@ -1,0 +1,14 @@
+layout_spectrum: 0.18347512418404222
+typography_spectrum: 0.05085262400098145
+color:
+  brandStrength: 0.7368787280283868
+  lightness: 0.9142549259122461
+  saturation: 0.05098909977823496
+  rhythmicContrast: 0.41398417786695063
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: always in flux
